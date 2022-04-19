@@ -2,13 +2,13 @@ package main
 
 import "fmt"
 
-func Cat() string{
+func Cat() string {
 
-	return "Wang~~"
-	//return "Miao~~"
+	// return "Wang~~"
+	return "Miao~~"
 }
 
-func main(){
+func main() {
 	saying := Cat()
 	fmt.Print(saying)
 }
