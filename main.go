@@ -4,7 +4,7 @@ import "fmt"
 
 func Cat() string {
 
-	 return "Wang~~"
+	return "haha~~"
 	//return "Miao~~"
 }
 
