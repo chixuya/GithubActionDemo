@@ -4,8 +4,8 @@ import "fmt"
 
 func Cat() string {
 
-	// return "Wang~~"
-	return "Miao~~"
+	 return "Wang~~"
+	//return "Miao~~"
 }
 
 func main() {
